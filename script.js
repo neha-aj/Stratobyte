@@ -5,18 +5,22 @@ const backBtn = document.getElementById('backBtn');
 const yearEl = document.getElementById('year');
 
 const articles = [
-  {
-    title: "The Art of Simplicity",
-    content: "<p>Simplicity is the ultimate sophistication...</p>"
-  },
-  {
-    title: "Focus in a Distracted World",
-    content: "<p>In a world filled with noise, true focus is rare...</p>"
-  },
-  {
-    title: "Designing Without Color",
-      content: "<p>Sometimes grayscale can speak louder than colors...</p>"
-    
+    {
+        title: "The Art of Simplicity",
+        content: "<p>Simplicity is the ultimate sophistication...</p>"
+    },
+    {
+        title: "Focus in a Distracted World",
+        content: "<p>In a world filled with noise, true focus is rare...</p>"
+    },
+    {
+        title: "Designing Without Color",
+        content: "<p>Sometimes grayscale can speak louder than colors...</p>"
+    },
+    {
+        title: "wear it with grace",
+        content: "<p>Sometimes grayscale can speak louder than colors...</p>"
+    }
   }
 ]
 
