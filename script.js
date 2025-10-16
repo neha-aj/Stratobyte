@@ -15,7 +15,8 @@ const articles = [
   },
   {
     title: "Designing Without Color",
-    content: "<p>Sometimes grayscale can speak louder than colors...</p>"
+      content: "<p>Sometimes grayscale can speak louder than colors...</p>"
+    
   }
 ]
 
